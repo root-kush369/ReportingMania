@@ -58,5 +58,5 @@ Welcome to **Reportify**, a sleek reporting tool designed to generate and export
   This project can be deployed on platforms like Netlify (for frontend) and a backend service. Check deployment docs for details.
 
 ## Credits
-  Built with love by [Kush BHardwaj] using simple, powerful tools!
+  Built with love by [Kush Bhardwaj] using simple, powerful tools!
    
