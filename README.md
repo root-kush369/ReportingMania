@@ -2,6 +2,11 @@
 
 Welcome to **Reportify**, a sleek reporting tool designed to generate and export detailed reports for systems like finance, HR, and CRM. Perfect for tracking and sharing insights with ease!
 
+## 🎥 Demo
+Check out the Reporting Engine in action! 
+
+![Password Generator Demo](Rm.gif)
+
 ## Features
 - **Dynamic Filters**: Filter reports by date, category, user, and region.
 - **Report Table**: View data in a clean, pivot-like table.
